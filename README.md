@@ -2,8 +2,8 @@
 
 Helping protect the planet through real, measurable commitments to net-zero sustainability.
 
-Live Demo: **[https://demo.com](https://demo.com)**
-GitHub Repo: **[https://github.com](https://github.com)**
+Live Demo: **[https://going2zero.com](https://going2zero.com)**
+GitHub Repo: **[https://github.com/badhon252/going2zero](https://github.com/badhon252/going2zero)**
 
 ---
 
